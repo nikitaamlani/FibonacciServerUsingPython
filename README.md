@@ -1,4 +1,4 @@
-# FibonacciServerUsingPython
+# Fibonacci Server Using Python
 Created three servers using python which interact with one another 
 The three servers are 
 User server (US) - a simple HTTP web server that accepts a GET HTTP
